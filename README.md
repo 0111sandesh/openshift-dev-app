@@ -1,1 +1,1 @@
-# openshift-dev-app
+README
